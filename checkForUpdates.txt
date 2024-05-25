@@ -1,0 +1,2 @@
+version=1.0
+url=https://www.mediafire.com/file/your-apk-file.apk
