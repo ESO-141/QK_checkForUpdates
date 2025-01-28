@@ -1,2 +1,2 @@
-version=3.5.12
+version=2.0
 url=https://www.mediafire.com/file/your-apk-file.apk
