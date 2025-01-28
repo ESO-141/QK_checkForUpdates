@@ -1,2 +1,2 @@
 version=2.0
-url=https://github.com/
+https://www.mediafire.com/file/fgwjj6a0ahfd911/app-release.apk/file
