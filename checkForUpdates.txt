@@ -1,2 +1,2 @@
 version=3.0
-https://www.mediafire.com/file/fgwjj6a0ahfd911/app-release.apk/file
+url=https://www.mediafire.com/file/fgwjj6a0ahfd911/app-release.apk/file
